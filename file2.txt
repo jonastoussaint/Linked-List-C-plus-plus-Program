@@ -1,0 +1,5 @@
+You’ve probably heard of dowel pins before, but if not, here’s what they do. These small
+metal cylinders align precision-fit engine components to one another. In the 
+example of the Cummins engine, a series of dowel pins ensure that the timing
+case at the front of the engine perfectly aligns with the cylinder block.
+Thanks to the author of this article.
